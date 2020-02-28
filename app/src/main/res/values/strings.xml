@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login Project</string>
+    <string name="userIdString">Enter User ID</string>
+    <string name="userPasswordString">Enter Password</string>
+</resources>
